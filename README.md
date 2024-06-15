@@ -27,3 +27,8 @@ This is calculated using:
 ## Transport Latency 
 This is calculated using:
 ***TIME_ON_RECEVIING_DATA - event_time<br><br>***
+
+
+## Application Architecture 
+![image](https://github.com/Wweilin-1997/Biance_Trades_Stream/assets/72431929/4fe97089-a736-443e-a1ad-dad732c1ef2e)
+
