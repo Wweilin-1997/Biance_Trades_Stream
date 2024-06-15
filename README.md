@@ -1,6 +1,6 @@
 # Biance_Trades_Stream
 
-This application is used to initialise a websocket with Binance Trade Steam API(https://github.com/binance/binance-spot-api-docs/blob/master/web-socket-streams.md) and calculate the latency on Binance Trade Data and Transport.
+This is a Django application utilizing Django Channels to initialise and forward a websocket with Binance Trade Steam API(https://github.com/binance/binance-spot-api-docs/blob/master/web-socket-streams.md) and calculate the latency on Binance Trade Data and Transport.
 
 The data will be stored in a local dbsqlite3 database with the following fields are shown below: <br/><br/>
 ```javascript
